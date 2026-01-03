@@ -19,31 +19,31 @@ A comprehensive Streamlit-based mental health support application with AI-powere
 ## Installation
 
 1. Clone the repository:
-```bash
+\`\`\`bash
 git clone <repository-url>
 cd mental-health-chatbot
-```
+\`\`\`
 
 2. Create a virtual environment:
-```bash
+\`\`\`bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
+\`\`\`
 
 3. Install dependencies:
-```bash
+\`\`\`bash
 pip install -r requirements.txt
-```
+\`\`\`
 
 4. Create `.env` file:
-```bash
+\`\`\`bash
 cp .env.example .env
-```
+\`\`\`
 
 5. Run the application:
-```bash
+\`\`\`bash
 streamlit run app.py
-```
+\`\`\`
 
 ## Configuration
 
